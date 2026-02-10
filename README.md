@@ -1,7 +1,6 @@
 **Housing Price Analysis**
 
-This project analyzes housing data using Python and data visualization techniques.
-The main objective is to understand how factors such as income, location, population, and number of rooms affect house prices.
+This project analyzes housing data using Python and data visualization techniques.The main objective is to understand how factors such as income, location, population, and number of rooms affect house prices.
 
 Features:-
 Data loading and preprocessing  
